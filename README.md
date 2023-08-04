@@ -16,6 +16,10 @@ https://nextjs-tutorial-h66fqrk6s-scastilloh.vercel.app/ -->
 - shadcn/ui
 - clerk (authentication)
 - zustand
+- prisma
+- postgresql
+- axios
+- react-hot-toast
 
 ```
 npm run dev

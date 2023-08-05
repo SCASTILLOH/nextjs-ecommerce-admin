@@ -53,7 +53,7 @@ const BillboardForm: React.FC<BillboardFormProps> = ({ initialData }) => {
     ? "Billboard updated."
     : "Billboard created.";
 
-  const action = initialData ? "Save changes." : "Create";
+  const action = initialData ? "Save changes" : "Create";
 
   const form = useForm<BillboardFormValues>({
     resolver: zodResolver(formSchema),

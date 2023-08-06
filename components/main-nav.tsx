@@ -40,7 +40,7 @@ const MainNav = ({
     },
     {
       href: `/${params.storeId}/products`,
-      label: "Product",
+      label: "Products",
       active: pathname === `/${params.storeId}/products`,
     },
     {

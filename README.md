@@ -22,6 +22,7 @@ https://nextjs-tutorial-h66fqrk6s-scastilloh.vercel.app/ -->
 - react-hot-toast
 - next-cloudinary
 - date-fns
+- recharts
 
 ```
 npm run dev

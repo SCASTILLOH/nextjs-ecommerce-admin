@@ -23,6 +23,7 @@ https://nextjs-tutorial-h66fqrk6s-scastilloh.vercel.app/ -->
 - next-cloudinary
 - date-fns
 - recharts
+- next-themes
 
 ```
 npm run dev

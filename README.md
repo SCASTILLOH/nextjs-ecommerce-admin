@@ -1,15 +1,14 @@
-# E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
+# ADMIN E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
 
 Thanks to the instructor Antonio!!
 
 https://www.youtube.com/watch?v=5miHyP6lExg
 
-<!-- <img src="image.png" alt="nextjs" width="600"> -->
-
-<!--
-Link to the app deployed with Vercel 👍:
-
-https://nextjs-tutorial-h66fqrk6s-scastilloh.vercel.app/ -->
+<img src="image1.png" alt="nextjs" width="600">
+<img src="image2.png" alt="nextjs" width="600">
+<img src="image3.png" alt="nextjs" width="600">
+<img src="image4.png" alt="nextjs" width="600">
+<img src="image5.png" alt="nextjs" width="600">
 
 - React
 - NextJS 13
@@ -24,6 +23,7 @@ https://nextjs-tutorial-h66fqrk6s-scastilloh.vercel.app/ -->
 - date-fns
 - recharts
 - next-themes
+- stripe
 
 ```
 npm run dev

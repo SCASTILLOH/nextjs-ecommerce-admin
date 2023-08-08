@@ -28,3 +28,7 @@ https://www.youtube.com/watch?v=5miHyP6lExg
 ```
 npm run dev
 ```
+
+```
+stripe listen --forward-to localhost:3000/api/webhook
+```
